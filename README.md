@@ -2,9 +2,14 @@
   <img src="banners/main.png" />
 </p>
 
+[![Build Size](https://img.shields.io/bundlephobia/minzip/@stealthex-io/widget?label=bundle%20size&style=flat&colorA=000000&colorB=000000)](https://bundlephobia.com/package/@stealthex-io/widget)
+[![Version](https://img.shields.io/npm/v/@stealthex-io/widget?style=flat&colorA=000000&colorB=000000)](https://www.npmjs.com/package/@stealthex-io/widget)
+[![Maintained](https://img.shields.io/maintenance/yes/2023?style=flat&colorA=000000&colorB=000000)](https://github.com/StealthEX-io/widget-library/commits/master)
+[![Issues](https://img.shields.io/github/issues/StealthEX-io/widget-library?style=flat&colorA=000000&colorB=000000)](https://github.com/StealthEX-io/widget-library/issues)
+
 StealthEX brings you a handy cryptocurrency exchange widget for crypto-related websites. Exchanges are always private, custody-free and take just a couple of clicks (and a personal wallet) to perform.
 
-All the swaps made with the widget grant you profit + the appearance and assets you would like to highlight are customizable. 
+All the swaps made with the widget grant you profit + the appearance and assets you would like to highlight are customizable.
 Register is StealthEX [Partner Account](https://stealthex.io/pp/) to track the stats and get all the info on our affiliate tools [here](https://stealthex.io/partners/).
 
 ## Install

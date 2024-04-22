@@ -54,7 +54,7 @@ export function init(id: string, options?: InitOptions): Cleanup {
   const iframe = document.createElement("iframe")
 
   iframe.id = widgetId
-  iframe.src = `${iframeHost}/widget/${id}`
+  iframe.src = `${iframeHost}/widget/${id}/`
 
   iframe.style.border = "none"
   iframe.style.borderRadius = "10px"
